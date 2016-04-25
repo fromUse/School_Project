@@ -75,7 +75,7 @@ Android动感系列-扫一扫 http://www.imooc.com/learn/648
 
 
 
-# JAVAJ基础
+# JAVA基础
  多线程 Thread, Runnabel
  集合 Collection
 	List..ArrayList....
